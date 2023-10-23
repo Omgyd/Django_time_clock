@@ -1,5 +1,8 @@
 /.venv
 /time_clock/time_clock/__pycache__
+/time_clock/timesheet/__pycache__
 /.env
+/time_clock/timesheet/migrations
+
 
 
